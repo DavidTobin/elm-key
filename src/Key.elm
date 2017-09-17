@@ -21,7 +21,7 @@ type Key
     = Key String
     | Shift
     | Meta
-    | Ctrl
+    | Control
     | Alt
     | CapsLock
     | Tab
@@ -70,8 +70,8 @@ keyDecoder =
                 "Meta" ->
                     Meta
 
-                "Ctrl" ->
-                    Ctrl
+                "Control" ->
+                    Control
 
                 "Alt" ->
                     Alt
