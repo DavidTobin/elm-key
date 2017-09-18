@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "summary": "Elm package for handling event.key in html keypress events",
     "repository": "https://github.com/DavidTobin/elm-key.git",
     "license": "BSD3",
